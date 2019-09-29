@@ -11,6 +11,8 @@
     "live-server": "^1.2.1",
     "react": "^16.2.0",
     "react-dom": "^16.8.6",
+    "tar": "^4.4.13",
+    "yarn": "^1.19.0",
     "yarn.lock": "0.0.1-security"
   }
 }
